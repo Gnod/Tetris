@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: fd05778517a4446bbbe9d5ee25d095b6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - audioRotate: {fileID: 8300000, guid: 7245f944ffb6db147a2aab0e8c079ff0, type: 3}
+  - audioCleanRow: {fileID: 8300000, guid: 1656d512216ec1a4eb0741591a576ab0, type: 3}
+  - audioBackground: {fileID: 8300000, guid: 00ccb3e4c4bdfc74b9b4545e5ad3b416, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
